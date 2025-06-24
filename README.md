@@ -37,12 +37,12 @@ cp .env.sample .env
 
 Preencha o .env com suas credenciais do Firebase:
 ```Bash
-FIREBASE_API_KEY=seu_api_key_aqui
-FIREBASE_AUTH_DOMAIN=seu_auth_domain_aqui
-FIREBASE_PROJECT_ID=seu_project_id_aqui
-FIREBASE_STORAGE_BUCKET=seu_storage_bucket_aqui
-FIREBASE_MESSAGING_SENDER_ID=seu_messaging_sender_id_aqui
-FIREBASE_APP_ID=seu_app_id_aqui
+FIREBASE_API_KEY=
+FIREBASE_AUTH_DOMAIN=
+FIREBASE_PROJECT_ID=
+FIREBASE_STORAGE_BUCKET=
+FIREBASE_MESSAGING_SENDER_ID=
+FIREBASE_APP_ID=
 ```
 
 Como rodar
